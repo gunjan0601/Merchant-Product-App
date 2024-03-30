@@ -1,4 +1,4 @@
-Merchant-Product Aap:
+Merchant-Product App:
 This project is a Merchant-Product App built using Hibernate.
 
 Overview:
